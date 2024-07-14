@@ -1,2 +1,0 @@
-# biography
-Personal background
